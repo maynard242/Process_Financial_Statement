@@ -1,6 +1,6 @@
 # Process_Financial_Statement
 
-Programs to process bank statements from UOB, DBS, POSB
+Programs to process bank statements from UOB, DBS, POSB into simple CSV for processing by programs such as Quicken, Banktivity, etc. 
 
 For DBS 
 ```python process_dbsbank.py [inputfile] [outputfile]```
