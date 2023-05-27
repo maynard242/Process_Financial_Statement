@@ -11,6 +11,9 @@ For UOB
 For UOB Cards
 ```python process_uobcard.py [inputfile] [outputfile]```
 
+For combination
+```python process_uob.py [inputfile] [outputfile] [card or bank]```
+
 
             
             
